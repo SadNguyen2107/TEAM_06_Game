@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\trangkdq\\Downloads\\jflac-1.3\\jflac-1.3\\dist\\jflac-1.3.jar",
+        "/home/jonathan0x113c1c3/Downloads/jflac-1.3/dist/jflac-1.3.jar",
+        "/home/jonathan0x113c1c3/Downloads/gson-2.10.1.jar",
+        "c:\\Users\\trangkdq\\Downloads\\gson-2.10.1.jar",
+        "/home/jonathan-0x113c1c3/Downloads/jflac-1.3/dist/jflac-1.3.jar"
+    ]
+}
