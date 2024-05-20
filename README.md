@@ -67,7 +67,7 @@ Client:
 
 ### Prerequisites
 
-* A minimum of `Java` JDK 21 to rn the Server
+* A minimum of `Java` JDK 21 to run the Server
 * An Android Phone to run Client Project
 
 ### Installation
