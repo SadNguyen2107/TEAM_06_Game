@@ -72,9 +72,8 @@ Client:
 
 ### Installation
 
-1. Download `Java` from the [Oracle website][Java.com] with at minium of JAVA JDK 21 
-2. Download Server code from the `.zip` folder in the `./Server` folder
-3. Download `.apk` file on Android Phone 
+1. Download `Java` from the [Oracle website][Java.com] with at minimum of JAVA JDK 21 
+2. Download `.apk` file on Android Phone 
 
 
 <!-- USAGE EXAMPLES -->
