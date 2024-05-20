@@ -28,6 +28,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#file-structure">File Structure</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -67,14 +68,19 @@ Client:
 
 ### Prerequisites
 
-* A minimum of `Java` JDK 21 to run the Server
+* A minimum of `Java` JDK 21 to rn the Server
 * An Android Phone to run Client Project
 
 ### Installation
 
-1. Download `Java` from the [Oracle website][Java.com] with at minimum of JAVA JDK 21 
-2. Download `.apk` file on Android Phone 
+1. Download `Java` from the [Oracle website][Java.com] with at minium of JAVA JDK 21 
+2. Unzip Server code from the `.zip` folder in the `./Java Server` folder
+3. Download `.apk` file on Android Phone 
 
+### File Structure
+* Java Server [Link to Server](./Java%20Server/)
+* Unity: [Link to Unity](./)
+* Android File: [Link to Android File](./Android.apk)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
